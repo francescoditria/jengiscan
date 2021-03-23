@@ -2,7 +2,7 @@
 Java Engine for Database Scan<br>
 extracts the profile of MySQL databases
 
-Argument to pass the main java file:<br>
+Argument to pass to the main java file:<br>
 username.password@host:port/database path
 
 <br>where:
