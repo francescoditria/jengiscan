@@ -1,7 +1,7 @@
 # jengiscan
 Java Engine for Database Scan<br>
 jengiscan extracts the profile of MySQL databases and creates an HTML report with fundamental metadata, sample data, and further statistical information (min, max,standard deviation, % null values, % distinct values, ...).<br>
-
+MySQL Connector for Java is required.<br>
 Argument to pass to the main java file:<br>
 username.password@host:port/database path
 
